@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="pyfx",
+    name="pyfx-tool",
     version="0.1.0",
     description="Fx (Function eXecution) in Python, inspired by https://www.npmjs.com/package/fx.",
     author="Wu Runfan",
