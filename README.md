@@ -3,7 +3,7 @@
 The Python version of the [non-interactive, JavaScript version](https://www.npmjs.com/package/fx) of the [**fx**](https://fx.wtf). Short for *PYthon Function eXecution* or *Pyf(x)*.
 
 ```bash
-python3 -mpip install pyfx
+python3 -mpip install pyfx-tool
 ```
 
 Or install in develop mode:
